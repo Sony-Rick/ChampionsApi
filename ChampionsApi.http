@@ -1,0 +1,6 @@
+@ChampionsApi_HostAddress = http://localhost:5043
+
+GET {{ChampionsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
