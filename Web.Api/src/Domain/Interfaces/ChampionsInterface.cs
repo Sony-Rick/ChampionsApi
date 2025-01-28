@@ -3,13 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Web.Api.domain.Interface;
+namespace Web.Api.src.domain.Interfaces
 {
-    
-}
-
-{
-    public interface ChampionsRepository
+        public interface IChampionsRepository
     {
         void Add(Champions champions); 
         Champions GetById(int id);

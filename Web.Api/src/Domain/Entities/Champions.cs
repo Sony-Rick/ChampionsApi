@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ChampionsApi.Api.Champios.app.domain
+namespace Web.Api.src.domain
 {
     public class Champions
     {
