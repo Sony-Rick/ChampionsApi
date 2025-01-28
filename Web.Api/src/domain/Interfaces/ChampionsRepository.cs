@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ChampionsApiinterface
+namespace Web.Api.domain.Interface;
 {
     
 }
+
 {
     public interface ChampionsRepository
     {

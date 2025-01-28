@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using ChampionsApi.Api.Champios.app;
 
-namespace Infra.Repository
+namespace ChampionsApi.Api.Champios.app.infra
 {
-    public class ChampionsRepository : IChampionsRepository
+    public class ChampionsRepository 
     {
         
     }
